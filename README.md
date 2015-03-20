@@ -1,5 +1,3 @@
-angularjs-rails wraps the [Angular.js](http://angularjs.org) library for use in Rails 3.1 and above. Assets will minify automatically during production.
-
 ## Usage
 
 Add the following to your Gemfile:
