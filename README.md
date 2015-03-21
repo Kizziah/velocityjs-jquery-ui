@@ -11,3 +11,6 @@ Add the following directive to your JavaScript manifest file (application.js):
 ## Usage
 
 Quck and easy way to install VelocityJS. http://julian.com/research/velocity/
+
+**Docs**  
+[VelocityJS.org](http://VelocityJS.org)
