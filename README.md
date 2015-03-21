@@ -1,4 +1,4 @@
-== Installation
+## Installation
 
 Add the following to your Gemfile:
 
