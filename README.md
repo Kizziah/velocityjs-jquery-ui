@@ -1,3 +1,7 @@
+# velocityjs-jquery-ui
+
+This gem provides Velocity.js with jQuery UI. 
+
 ## Installation
 
 Add the following to your Gemfile:
